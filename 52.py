@@ -1,3 +1,3 @@
-z=int(input())
-i=['Zero','One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
-print(i[z])
+g=int(input())
+d=['Zero','One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
+print(d[g])
