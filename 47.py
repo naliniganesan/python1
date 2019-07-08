@@ -1,0 +1,6 @@
+n2=input()
+for i in range(int(n2)
+  num1=list(map(int,input().split()))
+  m1=max(n1)
+  m2=min(n1)
+  print(m1,m2)
