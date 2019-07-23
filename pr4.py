@@ -1,0 +1,2 @@
+nal=input()
+print(nal+'.')
