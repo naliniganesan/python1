@@ -1,0 +1,2 @@
+nala=input()
+print(nala)
