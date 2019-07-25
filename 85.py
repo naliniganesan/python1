@@ -1,3 +1,3 @@
-sd1=input()
-print(sd1[::2],end=" ")
-print(sd1[1::2])
+s1=input()
+print(s1[::2],end=" ")
+print(s1[1::2])
