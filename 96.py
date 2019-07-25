@@ -1,0 +1,6 @@
+aa,ss,dd=input().split()
+aa=int(aa)
+ss=int(ss)
+dd=int(dd)
+tot=(n/2)*(2*aa+(n-1)*dd)
+print(round(tot))
